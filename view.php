@@ -1,7 +1,7 @@
 <?php
     class View
     {
-        const PATH = 'D:\\wamp64\\www\\Cours 2\\';
+        const PATH = 'C:\\wamp64\\www\\PHP-Cours_2\\';
         private $template;
 
         public function __construct($template)
